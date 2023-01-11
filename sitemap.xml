@@ -1,38 +1,200 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>http://dullroar.com/Blue%2520Team基础设施.html</loc>
+		<loc>http://redblue.wiki/2021%2520EPP魔力象限%2520EPP%2520Magic%2520Quadrant.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/Blue%2520Team基础设施.html</loc>
+		<lastmod>2023-01-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/Blue%2520Team能力建设.html</loc>
+		<lastmod>2023-01-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/CIA%2520如何实现C&amp;C基础设施.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/CrowdStrike%2520Falcon.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/Draft%2520of%2520&apos;终端基础设施&apos;.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/EDR.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/EDR商业化产品.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/EDR能力评估.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/GettingStarted.html</loc>
 		<lastmod>2022-12-23</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://dullroar.com/GettingStarted.html</loc>
+		<loc>http://redblue.wiki/Google.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/Google%2520Cloud%2520安全架构.html</loc>
+		<lastmod>2022-12-25</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/Google%2520安全工程师面试.html</loc>
+		<lastmod>2022-12-25</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/MITRE%2520EDR技术能力评估.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/Red%2520Team基础设施.html</loc>
+		<lastmod>2023-01-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/Red%2520Team能力建设.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/TableOfContents.html</loc>
+		<lastmod>2023-01-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/WAF能力评估/测试.html</loc>
+		<lastmod>2022-12-24</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/Web应用防火墙.html</loc>
 		<lastmod>2022-12-23</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://dullroar.com/TableOfContents.html</loc>
+		<loc>http://redblue.wiki/专题研究.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/保障IDC安全：分布式HIDS集群架构设计.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/加密流量解决方案.html</loc>
 		<lastmod>2022-12-23</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://dullroar.com/加密流量解决方案%2520Encryption%2520Solution.html</loc>
+		<loc>http://redblue.wiki/勒索犯罪团伙Conti.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/域名.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/学习资源.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/实践参考.html</loc>
+		<lastmod>2023-01-10</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/架构设计.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/终端基础设施.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/网络基础设施.html</loc>
 		<lastmod>2022-12-23</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://dullroar.com/网络基础设施%2520Network%2520Infrastructure.html</loc>
+		<loc>http://redblue.wiki/网络流量采集方案.html</loc>
 		<lastmod>2022-12-23</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://dullroar.com/网络流量采集方案%2520Network%2520Traffic%2520Collection.html</loc>
-		<lastmod>2022-12-23</lastmod>
+		<loc>http://redblue.wiki/行业观察.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/通过机器学习改善%2520WAF.html</loc>
+		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/重定向器%2520Redirectors.html</loc>
+		<lastmod>2023-01-11</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
