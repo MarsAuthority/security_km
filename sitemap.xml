@@ -1,20 +1,56 @@
 <?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
+		<loc>http://redblue.wiki/2021%2520CWE%2520Top%252025%2520软件脆弱点.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>http://redblue.wiki/2021%2520EPP魔力象限%2520EPP%2520Magic%2520Quadrant.html</loc>
 		<lastmod>2023-01-11</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>http://redblue.wiki/AD渗透测试思维导图.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/AWS.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/AWS%2520的S3故障回顾和思考.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/AWS架构设计最佳实践.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/Blue%2520Team命令与控制%2520C2.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>http://redblue.wiki/Blue%2520Team基础设施.html</loc>
-		<lastmod>2023-01-12</lastmod>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://redblue.wiki/Blue%2520Team能力建设.html</loc>
-		<lastmod>2023-01-16</lastmod>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -31,8 +67,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>http://redblue.wiki/Curl命令数据外传技巧.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/DataCon2021优秀解题思路分享-邮件发件人伪造（武汉大学%252010TG）.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>http://redblue.wiki/DNS%2520Tunnel隧道检测.html</loc>
-		<lastmod>2023-01-15</lastmod>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -61,6 +109,12 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>http://redblue.wiki/Exchange渗透测试思维导图.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>http://redblue.wiki/GettingStarted.html</loc>
 		<lastmod>2023-01-15</lastmod>
 		<changefreq>weekly</changefreq>
@@ -68,13 +122,19 @@
 	</url>
 	<url>
 		<loc>http://redblue.wiki/Google.html</loc>
-		<lastmod>2023-01-11</lastmod>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://redblue.wiki/Google%2520Cloud%2520安全架构.html</loc>
 		<lastmod>2022-12-25</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/Google%2520基础设施安全设计.html</loc>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -91,8 +151,62 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>http://redblue.wiki/log4j.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/log4j%2520WAF绕过方式.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/log4j%2520可利用的keywords.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/log4j%2520思维导图.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/log4j%2520相关tricks&amp;links.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>http://redblue.wiki/MITRE%2520EDR技术能力评估.html</loc>
 		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/Modern%2520Threat%2520Detection%2520at%2520Google.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/Northern%2520Kentucky%2520University%2520CSC%2520482%2520Computer%2520Security.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/Palo%2520Alto%2520Networks.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/Palo%2520Alto%2520Networks商业化分析.html</loc>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -103,14 +217,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>http://redblue.wiki/Red%2520Team命令与控制%2520C2.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>http://redblue.wiki/Red%2520Team基础设施.html</loc>
-		<lastmod>2023-01-10</lastmod>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://redblue.wiki/Red%2520Team能力建设.html</loc>
-		<lastmod>2023-01-11</lastmod>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -133,8 +253,32 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>http://redblue.wiki/SQL%2520注入.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/SQLmap%2520payload生成逻辑.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/Stanford%2520University%2520CS%2520259D%2520Data%2520Mining%2520for%2520Cyber%2520Security.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>http://redblue.wiki/TableOfContents.html</loc>
 		<lastmod>2023-01-14</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/tc-vertical-2019710998.html</loc>
+		<lastmod>2023-01-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -152,7 +296,7 @@
 	</url>
 	<url>
 		<loc>http://redblue.wiki/Web应用防火墙.html</loc>
-		<lastmod>2022-12-23</lastmod>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -164,13 +308,31 @@
 	</url>
 	<url>
 		<loc>http://redblue.wiki/专题研究.html</loc>
-		<lastmod>2023-01-11</lastmod>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/云安全渗透测试思维导图.html</loc>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://redblue.wiki/保障IDC安全：分布式HIDS集群架构设计.html</loc>
 		<lastmod>2023-01-11</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/内存取证思维导图.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/初始访问%2520Initial%2520Access.html</loc>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -187,20 +349,20 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://redblue.wiki/命令与控制C2.html</loc>
-		<lastmod>2023-01-15</lastmod>
-		<changefreq>weekly</changefreq>
-		<priority>0.5</priority>
-	</url>
-	<url>
 		<loc>http://redblue.wiki/域名.html</loc>
 		<lastmod>2023-01-11</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>http://redblue.wiki/域隐藏%2520Domain%2520Hiding.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>http://redblue.wiki/基于统计学的C2流量检测.html</loc>
-		<lastmod>2023-01-15</lastmod>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -224,25 +386,31 @@
 	</url>
 	<url>
 		<loc>http://redblue.wiki/威胁检测规则.html</loc>
-		<lastmod>2023-01-17</lastmod>
+		<lastmod>2023-01-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://redblue.wiki/学习资源.html</loc>
-		<lastmod>2023-01-11</lastmod>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://redblue.wiki/安全架构.html</loc>
-		<lastmod>2023-01-15</lastmod>
+		<lastmod>2023-01-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/安全规范/模型.html</loc>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://redblue.wiki/实践参考.html</loc>
-		<lastmod>2023-01-15</lastmod>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -253,14 +421,32 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>http://redblue.wiki/年度大型攻防实战全景：红蓝深度思考及多方联合推演.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>http://redblue.wiki/应急响应.html</loc>
-		<lastmod>2023-01-17</lastmod>
+		<lastmod>2023-01-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/思维导图.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/数据外传%2520Exfiltration.html</loc>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://redblue.wiki/文件分析.html</loc>
-		<lastmod>2023-01-17</lastmod>
+		<lastmod>2023-01-18</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -278,13 +464,19 @@
 	</url>
 	<url>
 		<loc>http://redblue.wiki/检测工程方法论.html</loc>
-		<lastmod>2023-01-12</lastmod>
+		<lastmod>2023-01-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/欺骗防御.html</loc>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://redblue.wiki/系统设计.html</loc>
-		<lastmod>2023-01-12</lastmod>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -296,13 +488,31 @@
 	</url>
 	<url>
 		<loc>http://redblue.wiki/终端基础设施.html</loc>
-		<lastmod>2023-01-12</lastmod>
+		<lastmod>2023-01-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/绕过%2520Bypass.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/绕过CDN%2520WAF防护.html</loc>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://redblue.wiki/网络基础设施.html</loc>
-		<lastmod>2022-12-23</lastmod>
+		<lastmod>2023-01-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/网络安全思维导图.html</loc>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -313,14 +523,26 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
-		<loc>http://redblue.wiki/自动化部署%2520Automating%2520Deployments.html</loc>
-		<lastmod>2023-01-12</lastmod>
+		<loc>http://redblue.wiki/自动化部署.html</loc>
+		<lastmod>2023-01-18</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/行业报告.html</loc>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
 	<url>
 		<loc>http://redblue.wiki/行业观察.html</loc>
-		<lastmod>2023-01-11</lastmod>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/认证强度成熟度模型%2520CASMM.html</loc>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
@@ -337,8 +559,38 @@
 		<priority>0.5</priority>
 	</url>
 	<url>
+		<loc>http://redblue.wiki/钓鱼%2520Phishing.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/长亭欺骗解决方案-谛听.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
 		<loc>http://redblue.wiki/长亭的webshell检测漫画挺有意思.html</loc>
 		<lastmod>2023-01-17</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/阿里云云原生蜜罐.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/阿里云安全的log4j分析文章写的很棒.html</loc>
+		<lastmod>2023-02-02</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>http://redblue.wiki/默安科技欺骗防御体系.html</loc>
+		<lastmod>2023-02-02</lastmod>
 		<changefreq>weekly</changefreq>
 		<priority>0.5</priority>
 	</url>
